@@ -1,6 +1,6 @@
 [{ "id": 1,
  "title": "Gawn - Pinkish/Cherish", 
- "price": $ 109.95, 
+ "price":  109.95, 
  "description": "Very Comfortable and Stylish to wear. Pure High Quality Fabric. ",
   "category": "women's clothing", 
   "image": "/image/1.jpg", 
@@ -8,7 +8,7 @@
 
 { "id": 2, 
 "title": "Gawn - Purplish/Brinjalish ", 
-"price": $ 109.95,
+"price":  109.95,
 "description": "Very Comfortable and Stylish to wear. Pure High Quality Fabric. ", 
 "category": "women's clothing", 
 "image": "/image/2.jpg", 
